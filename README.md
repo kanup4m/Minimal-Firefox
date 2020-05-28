@@ -1,8 +1,8 @@
 # minimal-firefox
 
-### Manual Install
+### Install
 
-If quick install does not work, or if you simply prefer to; you can manually install  minimal functional fox through the following steps:
+You can install  minimal functional fox through the following steps:
 
 1. Locate your Firefox user directory. You should be able to find it by navigating to `/home/.mozilla/firefox/` and looking for a directory ending with the world `.default-release`.
 2. Within your Firefox user directory, locate the `chrome` directory, if one does not already exist you can simply go ahead and create it yourself.
